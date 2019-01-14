@@ -1,6 +1,4 @@
-# Benford
-ITERATIONS ON BENFORD'S LAW
----------------
+## ITERATIONS ON BENFORD'S LAW ##
 ### 2018 Brazilian general elections data analysis ###
 
 Newcomb-Benford's methodology of analyzing the frequency distribution of leading digits in sets and clusters
@@ -16,6 +14,8 @@ outputs, ballots or prints of any kind. All the voting data is released by a cen
 
 A similar case scenario occurred in 2018 Brazilian general elections, and the purpose of this work is to 
 verify and expose possible frauds in the electronic voting machines and/or accounting of votes.
+
+- - - -
 
 _Ps.: In 2018 Brazilian elections, there have been popular efforts in counting the votes via smartphone apps, but
 as of its usage and methodology of data gathering, the processes cannot withstand legal analysis or challenges.
