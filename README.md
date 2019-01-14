@@ -17,6 +17,6 @@ verify and expose possible frauds in the electronic voting machines and/or accou
 
 
 Ps.: In 2018 Brazilian elections, there have been popular efforts in counting the votes via smartphone apps, but
-as of its usage and methodology of data gathering, the processess cannot withstand legal analysis or challenges.
+as of its usage and methodology of data gathering, the processes cannot withstand legal analysis or challenges.
 Thus, Newcomb-Benford's Law is a solid approach to expose the work of fraudsters, as with a priori justification
 and empirical analysis, science stands impaired.
