@@ -1,5 +1,5 @@
-# benford
-Iterations on Benford's Law
+# Benford
+ITERATIONS ON BENFORD'S LAW
 
 Newcomb-Benford's methodology of analyzing the frequency distribution of leading digits in sets and clusters
 of real-life numerical data can be used to detect possible frauds in human processes.
@@ -14,6 +14,7 @@ outputs, ballots or prints of any kind. All the voting data is released by a cen
 
 A similar case scenario occurred in 2018 Brazilian general elections, and the purpose of this work is to 
 verify and expose possible frauds in the electronic voting machines and/or accounting of votes.
+
 
 Ps.: In 2018 Brazilian elections, there have been popular efforts in counting the votes via smartphone apps, but
 as of its usage and methodology of data gathering, the processess cannot withstand legal analysis or challenges.
